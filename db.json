@@ -1,18 +1,13 @@
 
 {
-  "202012345": {
+  "202101968": {
     "password": "1234",
-    "name": "김철수",
-    "email": "kimcs@cnu.ac.kr"
+    "name": "설우태",
+    "email": "dnxo1224@o.cnu.ac.kr"
   },
-  "202098765": {
-    "password": "password",
-    "name": "이영희",
-    "email": "leeyh@cnu.ac.kr"
+  "1234": {
+    "password": "1234",
+    "name": "1234",
+    "email": "1234@o.cnu.ac.kr"
   },
-  "admin": {
-    "password": "admin",
-    "name": "관리자",
-    "email": "admin@cnu.ac.kr"
-  }
 }
