@@ -1,0 +1,17 @@
+{
+        '202101968': {
+          'password': '1234',
+          'name': '설우태',
+          'email': 'dnxo1224@o.cnu.ac.kr',
+        },
+        '202101234': {
+          'password': '1234',
+          'name': '홍길동',
+          'email': 'gildong@o.cnu.ac.kr',
+        },
+        'admin': {
+          'password': 'admin',
+          'name': '관리자',
+          'email': 'admin@o.cnu.ac.kr',
+        },
+}
